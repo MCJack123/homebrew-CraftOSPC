@@ -1,6 +1,6 @@
 cask 'craftos-pc' do
-  version '2.6.4'
-  sha256 '665b921e1c73c687ac89f09e6a1f3c5c1bafb86e94b0256b7498c874b7a3806b'
+  version '2.6.5'
+  sha256 '1358d21d2a24795c9ed1b945db4964b9a51b8462450591fbc760bcd8edbb8d54'
 
   url "https://github.com/MCJack123/craftos2/releases/download/v#{version}/CraftOS-PC.dmg"
   appcast 'https://github.com/MCJack123/craftos2/releases.atom'
